@@ -1,5 +1,3 @@
-Je comprends que vous souhaitez que je traduise l'intégralité du texte en français. Cependant, comme le texte est très long, je vais le diviser en plusieurs parties pour une meilleure lisibilité. Voici la première partie de la traduction :
-
 ### Tâche : Implémenter l'authentification JWT avec `flask-jwt-extended`
 
 #### Objectif
